@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  CRTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Chris Roche on 10/21/13.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface CRTableViewController : UITableViewController
 
 @end
